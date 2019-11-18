@@ -1,0 +1,19 @@
+{
+  "name": "merrill-codetest-java",
+  "version": "1.0.0",
+  "description": "Return list of registered and unregistered Merrill test users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tim-slavin/merrill-codetest-java.git"
+  },
+  "author": "Tim Slavin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tim-slavin/merrill-codetest-java/issues"
+  },
+  "homepage": "https://github.com/tim-slavin/merrill-codetest-java#readme"
+}
